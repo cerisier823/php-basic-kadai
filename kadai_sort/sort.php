@@ -30,7 +30,7 @@
     echo "<br>";
     sort_2way($array, FALSE);
 
-        ?>
+    ?>
     </p>
     
 </body>
